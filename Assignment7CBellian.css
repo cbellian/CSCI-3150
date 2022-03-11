@@ -1,0 +1,29 @@
+h1, h2 {
+    color: #0B6E4F;
+  }
+  
+  p {
+    color: #364958;
+  }
+  
+  ul {
+    border: 2px solid #645244;
+  }
+  
+  ol {
+    border: 4px dashed #645244;
+  }
+  
+  ol, ul {
+    padding: 15px 30px;
+    border-radius: 20px;
+  }
+  
+  h1, strong {
+    color: #0B6E4F;
+  }
+  
+  em {
+    color: #645244;
+  }
+  
